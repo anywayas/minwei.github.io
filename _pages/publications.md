@@ -27,9 +27,9 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. IEEE/CVF International Conference on Computer Vision Workshops (AIM Workshop), 2019 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf))
 
-Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo (oral), 2021 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf))
+Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo (oral), 2021 ([PDF](../files/2021-Spatial-Content-Alignment-for-Pose-Transfer.pdf))
 
-Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. IEEE International Conference on Image Processing, 2021 ([PDF](../files/2021-Spatial-Content-Alignment-for-Pose-Transfer.pdf))
+Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. IEEE International Conference on Image Processing, 2021 ([PDF](../files/2021-Semasuperpixel-A-Multi-Channel-Probability-Driven-Superpixel-Segmentation-Method.pdf))
 
 Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Yujia Zhang, Kin-Wai Lau. <font color='Navy'>FEANet: Foreground-edge-aware Network with DenseASPOC for Human Parsing</font>. Image and Vision Computing, 2021 ([PDF](../files/2021-FEANet-Foreground-edge-aware-network-with-DenseASPOC-for-human-parsing.pdf))
 
