@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong SAR"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "citations?user=OtoqVTIAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=zh-CN"
   email            : yzzhao2-c@my.cityu.edu.hk, zyz0808.hust@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Yuzhi-Zhao"
   uri              :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
