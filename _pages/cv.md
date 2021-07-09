@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* 2018.09 - 2022.06 Ph.D in Electronic Engineering, **Huazhong University of Science and Technology**. <br>
+* 2018.09 - 2022.06 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/)) 
-* 2014.09 - 2018.06 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
+* 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
 
 Work experience
 ======
@@ -54,3 +54,17 @@ Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavel
 Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Data-level Information Enhancement: Motion-patch-based Siamese Convolutional Neural Networks for Human Activity Recognition in Videos</font>. Expert Systems with Applications, 2020
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019
+
+Honor
+======
+Excellent Research Intern, SenseTime Group Limited, 2021
+
+1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
+
+Excellent Graduate, Huazhong University of Science and Technology, 2018
+
+Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
+
+Extracurricular Activity
+======
+President, Bicycle Association, Huazhong University of Science and Technology, May. 2015 - May. 2016
