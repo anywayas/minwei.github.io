@@ -8,6 +8,7 @@ author_profile: true
 You can also find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en).
 
 ======
+
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI 2022
 
 **Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. Under Review of AAAI 2022
