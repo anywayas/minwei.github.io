@@ -41,6 +41,8 @@ Publication
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. IEEE/CVF International Conference on Computer Vision Workshops (AIM Workshop), 2019
 
+Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. Under Review of IEEE Transactions on Image Processing, 2021
+
 Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo (oral), 2021
 
 Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. IEEE International Conference on Image Processing, 2021
@@ -61,9 +63,15 @@ Excellent Research Intern, SenseTime Group Limited, 2021
 
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
-Excellent Graduate, Huazhong University of Science and Technology, 2018
+Research Tuition Scholarship, City University of Hong Kong, 2018
+
+Postgraduate Studentship, City University of Hong Kong, 2018
 
 Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
+
+Excellent Graduate, Huazhong University of Science and Technology, 2018
+
+Acdemic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
 Extracurricular Activity
 ======
