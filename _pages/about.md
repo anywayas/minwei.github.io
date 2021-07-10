@@ -14,7 +14,7 @@ P1412, City University of Hong Kong, No. 83 Tat Chee Avenue, Kowloon, Hong Kong 
 
 **Research Interests**
 ======
-My research interests lie in the fields of low-level computer vision, computational photography, and generative models, particularly in image deblurring, image colorization, image enhancement, and human image generation. 
+My research interests lie in the fields of low-level computer vision, computational photography, and generative models, particularly in image/video deblurring, colorization, enhancement, and human image generation. 
 
 **Short Bio**
 ======

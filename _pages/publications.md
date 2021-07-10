@@ -7,7 +7,6 @@ author_profile: true
 
 You can also find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=OtoqVTIAAAAJ&hl=en).
 
-**Conference**
 ======
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI 2022
 
@@ -19,13 +18,15 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Review of IEEE Transactions on Neural Networks and Learning Systems
 
-**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. Under Revision of IEEE Transactions on Multimedia ([PDF](https://arxiv.org/pdf/2104.12357.pdf))
+**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. Under Revision of IEEE Transactions on Multimedia (Revision Version: [PDF](https://arxiv.org/pdf/2104.12357.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Win-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (NTIRE Workshop), 2020 ([PDF](../files/2020-Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. IEEE/CVF International Conference on Computer Vision Workshops (AIM Workshop), 2019 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf))
+
+Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. Under Review of IEEE Transactions on Image Processing, 2021
 
 Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo (oral), 2021 ([PDF](../files/2021-Spatial-Content-Alignment-for-Pose-Transfer.pdf))
 
