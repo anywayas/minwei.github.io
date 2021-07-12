@@ -13,7 +13,7 @@ Education
 * 2018.09 - 2022.06 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3) 
 * 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
-&ensp;&ensp;&ensp;(GPA: 3.82/4.3) 
+&ensp;&ensp;&ensp;(GPA: 3.8/4.0) 
 
 Work experience
 ======
@@ -72,7 +72,7 @@ Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
 
 Excellent Graduate, Huazhong University of Science and Technology, 2018
 
-Acdemic Progress Scholarship, Huazhong University of Science and Technology, 2015
+Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
 Extracurricular Activity
 ======
