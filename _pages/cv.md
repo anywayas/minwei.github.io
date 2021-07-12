@@ -11,8 +11,9 @@ redirect_from:
 Education
 ======
 * 2018.09 - 2022.06 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
-&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/)) 
-* 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
+&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3) 
+* 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
+&ensp;&ensp;&ensp;(GPA: 3.82/4.3) 
 
 Work experience
 ======
@@ -63,7 +64,7 @@ Excellent Research Intern, SenseTime Group Limited, 2021
 
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
-Research Tuition Scholarship, City University of Hong Kong, 2018
+Research Tuition Scholarship, City University of Hong Kong, 2021
 
 Postgraduate Studentship, City University of Hong Kong, 2018
 
