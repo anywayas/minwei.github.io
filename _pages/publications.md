@@ -13,7 +13,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. Under Review of AAAI 2022
 
-**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 ([PDF](../files/2021-Legacy-Photo-Editing-with-Learned-Noise-Prior.pdf)) ([Code/Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior))
+**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) ([PDF](../files/2021-Legacy-Photo-Editing-with-Learned-Noise-Prior.pdf)) ([Code/Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior))
 
 **Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing
 
