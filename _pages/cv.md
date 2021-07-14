@@ -13,7 +13,7 @@ Education
 * 2018.09 - 2022.06 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
 &ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3) 
 * 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
-&ensp;&ensp;&ensp;(GPA: 3.8/4.0) 
+&ensp;&ensp;&ensp;(启明学院电信卓越计划实验班, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0) 
 
 Work experience
 ======
@@ -70,8 +70,16 @@ Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
 
 Excellent Graduate, Huazhong University of Science and Technology, 2018
 
+Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
+
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
 
 Extracurricular Activity
 ======
 President, Bicycle Association, Huazhong University of Science and Technology, May. 2015 - May. 2016
+
+Top-10 Singer, Huazhong University of Science and Technology, 2015
+
+Interest
+======
+Singing, Cycling, Hiking, etc.
