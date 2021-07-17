@@ -53,8 +53,6 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 
 Honor
 ======
-Excellent Research Intern, SenseTime Group Limited, 2021
-
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
 Postgraduate Studentship, City University of Hong Kong, 2018
