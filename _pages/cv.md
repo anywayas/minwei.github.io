@@ -15,13 +15,6 @@ Education
 * 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
 &ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0) 
 
-Work experience
-======
-* 2021.07 - Present Research Intern, AI Imaging Group, **Tetras.AI**. <br>
-&ensp;&ensp;&ensp;(mentored by [Dr. Qiong Yan](http://www.yan-qiong.com/))
-* 2019.11 - 2021.06 Research Intern, AI Imaging Group, **SenseTime Research**. <br>
-&ensp;&ensp;&ensp;(mentored by [Dr. Qiong Yan](http://www.yan-qiong.com/))
-
 Publication
 ======
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI 2022
