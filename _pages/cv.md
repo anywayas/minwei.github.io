@@ -17,11 +17,11 @@ Education
 
 Publication
 ======
-**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI 2022
+**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI Conference on Artificial Intelligence, 2022 (AAAI'22)
 
-**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. Under Review of AAAI 2022
+**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. Under Review of AAAI Conference on Artificial Intelligence, 2022 (AAAI'22)
 
-**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2021
+**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) (WACV'21)
 
 **Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing
 
@@ -31,25 +31,25 @@ Publication
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Win-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020.
 
-**Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (NTIRE Workshop), 2020
+**Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2020 (CVPR NTIRE Workshop)
 
-**Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. IEEE/CVF International Conference on Computer Vision Workshops (AIM Workshop), 2019
+**Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. IEEE/CVF International Conference on Computer Vision Workshops, 2019 (ICCV AIM Workshop)
 
 Wing-Yin Yu, Lai-Man Po, Jingjing Xiong, **Yuzhi Zhao**, Pengfei Xian. <font color='Navy'>ShaTure: Shape and Texture Deformation for Human Pose and Attribute Transfer</font>. Under Review of IEEE Transactions on Image Processing, 2021
 
-Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo (oral), 2021
+Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. IEEE International Conference on Multimedia and Expo, 2021 (oral) (ICME'21)
 
-Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. IEEE International Conference on Image Processing, 2021
+Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. IEEE International Conference on Image Processing, 2021 (ICIP'21)
 
-Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Yujia Zhang, Kin-Wai Lau. <font color='Navy'>FEANet: Foreground-edge-aware Network with DenseASPOC for Human Parsing</font>. Image and Vision Computing, 2021
+Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Yujia Zhang, Kin-Wai Lau. <font color='Navy'>FEANet: Foreground-edge-aware Network with DenseASPOC for Human Parsing</font>. Image and Vision Computing, 2021 (IVC'21)
 
-Xuehui Wang, Qing Wang, **Yuzhi Zhao**, Junchi Yan, Lei Fan, Long Chen. <font color='Navy'>Lightweight Single-image Super-resolution Network with Attentive Auxiliary Feature Learning</font>. Proceedings of the Asian Conference on Computer Vision, 2020
+Xuehui Wang, Qing Wang, **Yuzhi Zhao**, Junchi Yan, Lei Fan, Long Chen. <font color='Navy'>Lightweight Single-image Super-resolution Network with Attentive Auxiliary Feature Learning</font>. Asian Conference on Computer Vision, 2020 (ACCV'20)
 
-Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavelet Network for Image Denoising</font>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (NTIRE Workshop), 2020
+Wei Liu, Qiong Yan, **Yuzhi Zhao**. <font color='Navy'>Densely Self-guided Wavelet Network for Image Denoising</font>. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2020 (CVPR NTIRE Workshop)
 
-Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Data-level Information Enhancement: Motion-patch-based Siamese Convolutional Neural Networks for Human Activity Recognition in Videos</font>. Expert Systems with Applications, 2020
+Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Data-level Information Enhancement: Motion-patch-based Siamese Convolutional Neural Networks for Human Activity Recognition in Videos</font>. Expert Systems with Applications, 2020 (ESWA'20)
 
-Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019
+Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019 (JVCIR'19)
 
 Honor
 ======
