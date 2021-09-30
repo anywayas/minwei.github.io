@@ -35,10 +35,6 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **Conference**
 ======
 
-**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Review of AAAI Conference on Artificial Intelligence, 2022 (AAAI'22)
-
-**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. Under Review of AAAI Conference on Artificial Intelligence, 2022 (AAAI'22)
-
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) (WACV'21) ([PDF](../files/2021-Legacy-Photo-Editing-with-Learned-Noise-Prior.pdf)) ([Code/Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)) ([URL](https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2020 (CVPR NTIRE Workshop) ([PDF](../files/2020-Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images.pdf)) ([Code](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images)) ([Poster](https://github.com/zhaoyuzhi/Hierarchical-Regression-Network-for-Spectral-Reconstruction-from-RGB-Images/blob/master/img/poster.png)) ([URL](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhao_Hierarchical_Regression_Network_for_Spectral_Reconstruction_From_RGB_Images_CVPRW_2020_paper.pdf))
