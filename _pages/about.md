@@ -22,13 +22,15 @@ Yuzhi Zhao is a Ph.D candidate at the Department of Electronic Engineering, City
 
 **News**
 ======
+- Nov 2021: "ChildPredictor" has been under review of IEEE Transactions on Multimedia (TMM)
+
+- Nov 2021: "VCGAN" has been under minor revision of IEEE Transactions on Multimedia (TMM)
+
 - Oct 2021: 3 papers have passed first round of AAAI 2022
 
 - Sep 2021: "HSGAN" has been under major revision of Transactions on Neural Networks and Learning Systems (TNNLS)
 
 - Aug 2021: "SVCNet" has been under review of IEEE Transactions on Image Processing (TIP)
-
-- Apr 2021: "VCGAN" has been under major revision of IEEE Transactions on Multimedia (TMM)
 
 - Nov 2020: "SCGAN" is accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
