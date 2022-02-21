@@ -10,23 +10,31 @@ redirect_from:
 
 Education
 ======
-* 2018.09 - 2022.06 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
-&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3) 
+* 2018.09 - 2023 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
+&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
 * 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
-&ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0) 
+&ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+
+Work experience
+======
+* 2021.07 - 2021.08 Research Intern, AI Imaging Group, **Tetras.AI**. <br>
+&ensp;&ensp;&ensp;(mentored by [Dr. Qiong Yan](http://www.yan-qiong.com/))
+* 2019.11 - 2021.06 Research Intern, AI Imaging Group, **SenseTime Research**. <br>
+&ensp;&ensp;&ensp;(mentored by [Dr. Qiong Yan](http://www.yan-qiong.com/))
 
 Publication
 ======
+**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Major Revision of IEEE Transactions on Image Processing
+
+**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. Under Major Revision of IEEE Transactions on Multimedia
+
+**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems
+
+**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 (TMM'22)
+
+**Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Win-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 (TCSVT'20)
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral) (WACV'21)
-
-**Yuzhi Zhao**, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Win-Yin Yu. <font color='Navy'>SVCNet: Real-time Scribble-based Video Colorization with Pyramid Networks</font>. Under Review of IEEE Transactions on Image Processing
-
-**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Review of IEEE Transactions on Neural Networks and Learning Systems
-
-**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. Under Revision of IEEE Transactions on Multimedia
-
-**Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Win-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020.
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2020 (CVPR NTIRE Workshop)
 
@@ -52,7 +60,7 @@ Honor
 ======
 1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
-Postgraduate Studentship, City University of Hong Kong, 2018
+4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
 
 Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
 
@@ -61,6 +69,12 @@ Excellent Graduate, Huazhong University of Science and Technology, 2018
 Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
 
 Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
+
+Acdemic Service
+======
+Reviewer for: ICIP 2021, ICASSP 2021, WACV 2022
+
+Reviewer for: IEEE TCSVT, IEEE TIP, Knowledge-based Systems
 
 Extracurricular Activity
 ======
