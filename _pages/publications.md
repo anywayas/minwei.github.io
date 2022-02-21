@@ -22,7 +22,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Qiong Yan, Wei Liu, Pengfei Xian. <font color='Navy'>HSGAN: Hyperspectral Reconstruction from RGB Images with Generative Adversarial Network</font>. Under Major Revision of IEEE Transactions on Neural Networks and Learning Systems ([Code](https://github.com/zhaoyuzhi/HSGAN))
 
-**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 (TMM'22) (Revision Version: [PDF](https://arxiv.org/pdf/2104.12357.pdf)) ([Code](https://github.com/zhaoyuzhi/VCGAN))
+**Yuzhi Zhao**, Lai-Man Po, Win-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 (TMM'22) ([PDF](https://arxiv.org/pdf/2104.12357.pdf)) ([Code](https://github.com/zhaoyuzhi/VCGAN))
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Win-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 (TCSVT'20) ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) ([Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
