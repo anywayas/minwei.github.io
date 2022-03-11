@@ -20,8 +20,12 @@ My research interests lie in the fields of low-level computer vision, computatio
 ======
 Yuzhi Zhao is a Ph.D candidate at the Department of Electronic Engineering, City University of Hong Kong from 2018. He obtained the B.Eng degree at the School of Electronic and Information Engineering (Qiming College), Huazhong University of Science and Technology, 2018. His research interests include low-level computer vision, computational photography, and generative models.
 
+<font color='red'>I am open to finding a job now!!!</font>
+
 **News**
 ======
+- Mar 2022: two papers are submitted to ECCV 2022
+
 - Feb 2022: "VCGAN" is **accepted** to IEEE Transactions on Multimedia (TMM)
 
 - Feb 2022: "SVCNet" has been under **major revision** of IEEE Transactions on Image Processing (TIP)
