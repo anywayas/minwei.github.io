@@ -24,29 +24,21 @@ Yuzhi Zhao is a Ph.D candidate at the Department of Electronic Engineering, City
 
 **News**
 ======
-- Mar 2022: two papers are submitted to ECCV 2022
+- Mar 2022: "ChildPredictor" is **accepted** to IEEE Transactions on Multimedia
 
-- Feb 2022: "VCGAN" is **accepted** to IEEE Transactions on Multimedia (TMM)
+- Mar 2022: two papers are submitted to ECCV 2022, one paper is submitted to TIP
 
-- Feb 2022: "SVCNet" has been under **major revision** of IEEE Transactions on Image Processing (TIP)
+- Feb 2022: "VCGAN" is **accepted** to IEEE Transactions on Multimedia
 
-- Feb 2022: "ChildPredictor" has been under **major revision** of IEEE Transactions on Multimedia (TMM)
+- Feb 2022: "SVCNet" has been under **major revision** of IEEE Transactions on Image Processing
 
-- Nov 2021: "VCGAN" has been under minor revision of IEEE Transactions on Multimedia (TMM)
+- Nov 2021: "Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation" is **accepted** to AAAI 2022
 
-- Nov 2021: 1 paper is **accepted** to AAAI 2022
+- Sep 2021: "HSGAN" has been under **major revision** of Transactions on Neural Networks and Learning Systems
 
-- Sep 2021: "HSGAN" has been under **major revision** of Transactions on Neural Networks and Learning Systems (TNNLS)
-
-- Apr 2021: "VCGAN" has been under major revision of IEEE Transactions on Multimedia (TMM)
-
-- Nov 2020: "SCGAN" is **accepted** to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Nov 2020: "SCGAN" is **accepted** to IEEE Transactions on Circuits and Systems for Video Technology
 
 - Nov 2020: "Legacy Photo Editing with Learned Noise Prior" is **accepted** to WACV 2021
-
-- Oct 2020: "SCGAN" has been under minor revision of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
-- Aug 2020: "SCGAN" has been under major revision of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 - May 2020: "HRNet (Hierarchical Regression Network for Spectral Reconstruction from RGB images)" wins the **first prize** of NTIRE 2020 challenge on hyperspectral reconstruction from a RGB image, and the paper is accepted to CVPR 2020 NTIRE workshop
 
