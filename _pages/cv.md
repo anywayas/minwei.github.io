@@ -71,13 +71,13 @@ Academic Progress Scholarship, Huazhong University of Science and Technology, 20
 
 Acdemic Service
 ======
-Reviewer for: ICIP 2021, ICASSP 2021, WACV 2022
+Reviewer for: ICIP 2021-2022, ICASSP 2021, WACV 2021-2022, VCIP 2021
 
-Reviewer for: IEEE TCSVT, IEEE TIP, Knowledge-based Systems
+Reviewer for: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems
 
 Extracurricular Activity
 ======
-President, Bicycle Association, Huazhong University of Science and Technology, May. 2015 - May. 2016
+President, Bicycle Association, Huazhong University of Science and Technology, 2015.5 - 2016.5
 
 Top-10 Singer, Huazhong University of Science and Technology, 2015
 
