@@ -8,14 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* 2018.09 - 2023 Ph.D candidate in Electronic Engineering, **City University of Hong Kong**. <br>
-&ensp;&ensp;&ensp;(supervised by [Prof. Lai-Man Po](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
-* 2014.09 - 2018.06 B.Eng. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. <br>
-&ensp;&ensp;&ensp;(Exemplary Engineer Class, Qiming College, supervised by [Prof. Xiaojun Hei](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
+* 2018.09 - 2023 博士生, 电子工程系, **香港城市大学**. <br>
+&ensp;&ensp;&ensp;(指导老师: [Lai-Man Po 教授](http://www.ee.cityu.edu.hk/~lmpo/), GPA: 3.82/4.3)
+* 2014.09 - 2018.06 工学学士. 电子信息与通信学院, **华中科技大学**. <br>
+&ensp;&ensp;&ensp;(启明学院电信卓越班, 指导老师: [Xiaojun Hei 教授](https://scholar.google.com/citations?user=x9vhdoIAAAAJ&hl=en), GPA: 3.8/4.0)
 
-Publication
+论文
 ======
 **Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022
 
@@ -55,32 +55,34 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, Yasar Abbas Ur Rehman, Weifeng Ou, **Yuzh
 
 Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi Zhao**. <font color='Navy'>Face Liveness Detection using Convolutional-features Fusion of Real and Deep Network Generated Face Images</font>. Journal of Visual Communication and Image Representation, 2019
 
-Honor
+荣誉
 ======
-1st Place in NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
+第一名, NTIRE 2020 Challenge on Hyperspectral Reconstruction from RGB Images, CVPR NTIRE Workshop, 2020
 
-4th Place in AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
+第四名, AIM 2019 Challenge on RAW to RGB Mapping, ICCV AIM Workshop, 2019
 
-Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
+M奖, Interdisciplinary Contest in Modelling, 2018
 
-Excellent Graduate, Huazhong University of Science and Technology, 2018
+全奖博士生, 香港城市大学, 2018
 
-Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
+优秀毕业生, 华中科技大学, 2018
 
-Academic Progress Scholarship, Huazhong University of Science and Technology, 2015
+优秀学生干部奖学金, 华中科技大学, 2015
 
-Acdemic Service
+学业奖学金, 华中科技大学, 2015
+
+学术服务
 ======
-Reviewer for: ICIP 2021-2022, ICASSP 2021, WACV 2021-2022, VCIP 2021
+审稿人: ICIP 2021-2022, ICASSP 2021, WACV 2021-2022, VCIP 2021
 
-Reviewer for: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems
+审稿人: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems
 
-Extracurricular Activity
+课外活动
 ======
-President, Bicycle Association, Huazhong University of Science and Technology, 2015.5 - 2016.5
+自行车协会会长, 华中科技大学, 2015.5 - 2016.5
 
-Top-10 Singer, Huazhong University of Science and Technology, 2015
+院级十大歌手, 华中科技大学, 2015
 
-Interest
+个人爱好
 ======
-Singing, Cycling, Hiking, etc.
+唱歌, 骑行, 爬山, 等等.

@@ -63,6 +63,8 @@ Honor
 
 Meritorious Winner, Interdisciplinary Contest in Modelling, 2018
 
+Postgraduate Scholarship, City University of Hong Kong, 2018
+
 Excellent Graduate, Huazhong University of Science and Technology, 2018
 
 Outstanding Student Leader Scholarship, Huazhong University of Science and Technology, 2015
