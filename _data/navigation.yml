@@ -18,8 +18,14 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "中文简历"
+    url: /cv_cn/
+    
 #   - title: "Software"
 #     url: /software/
+    
+#   - title: "Link"
+#     url: /link/
     
 #   - title: "Guide"
 #     url: /markdown/
