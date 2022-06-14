@@ -43,3 +43,5 @@ Yuzhi Zhao is a Ph.D candidate at the Department of Electronic Engineering, City
 - May 2020: "HRNet (Hierarchical Regression Network for Spectral Reconstruction from RGB images)" wins the **first prize** of NTIRE 2020 challenge on hyperspectral reconstruction from a RGB image, and the paper is accepted to CVPR 2020 NTIRE workshop
 
 - Sep 2019: "RAW2RGB-GAN (Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping)" wins the **fourth prize** of AIM 2019 challenge on RAW to RGB mapping, and the paper is accepted to ICCV 2019 AIM workshop
+
+- Sep 2018: I started my Ph.D. study in the City University of Hong Kong
