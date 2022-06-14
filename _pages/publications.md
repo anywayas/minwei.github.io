@@ -16,9 +16,9 @@ You can also find my full publication list on my [Google Scholar profile](https:
 **Journal**
 ======
 
-**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022 ([Code/Dataset](https://github.com/zhaoyuzhi/ChildPredictor)) ([PDF](../files/2022-ChildPredictor-A-Child-Face-Prediction-Framework-with-Disentangled-Learning.pdf)) ([URL](https://ieeexplore.ieee.org/document/9749880))
+**Yuzhi Zhao**, Lai-Man Po, Xuehui Wang, Qiong Yan, Wei Shen, et al. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-ChildPredictor-A-Child-Face-Prediction-Framework-with-Disentangled-Learning.pdf)) ([Code/Dataset](https://github.com/zhaoyuzhi/ChildPredictor)) ([URL](https://ieeexplore.ieee.org/document/9749880))
 
-**Yuzhi Zhao**, Lai-Man Po, Wing-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 ([Code](https://github.com/zhaoyuzhi/VCGAN)) ([PDF](../files/2022-VCGAN-Video-Colorization-with-Hybrid-Generative-Adversarial-Network.pdf)) ([URL](https://ieeexplore.ieee.org/abstract/document/9721653))
+**Yuzhi Zhao**, Lai-Man Po, Wing-Yin Yu, YAU Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou. <font color='Navy'>VCGAN: Video Colorization with Hybrid Generative Adversarial Network</font>. IEEE Transactions on Multimedia, 2022 ([PDF](../files/2022-VCGAN-Video-Colorization-with-Hybrid-Generative-Adversarial-Network.pdf)) ([Code](https://github.com/zhaoyuzhi/VCGAN)) ([URL](https://ieeexplore.ieee.org/abstract/document/9721653))
 
 **Yuzhi Zhao**, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, YAU Rehman. <font color='Navy'>SCGAN: Saliency Map-guided Colorization with Generative Adversarial Network</font>. IEEE Transactions on Circuits and Systems for Video Technology, 2020 ([PDF](../files/2020-SCGAN-Saliency-Map-guided-Colorization-with-Generative-Adversarial-Network.pdf)) ([Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)) ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9257445))
 
