@@ -29,11 +29,13 @@ redirect_from:
 
 **Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing
 
-**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. IEEE/CVF Winter Conference on Applications of Computer Vision, 2021 (oral)
+**Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. WACV (oral), 2021
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. ICCV Workshops, 2019
+
+Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>WS3D: Weakly Supervised 3D Scene Segmentation with Region-level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022
 
 Kangcheng Liu, **Yuzhi Zhao**, Zhi Gao, and Ben M. Chen. <font color='Navy'>WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding</font>. ICRA, 2022
 
@@ -45,7 +47,7 @@ Pengfei Xian, Lai-Man Po, Jingjing Xiong, Chang Zhou, **Yuzhi Zhao**, Wing-Yin Y
 
 Jingjing Xiong, Lai-Man Po, Wing-Yin Yu, **Yuzhi Zhao**, Kwok-Wai Cheung. <font color='Navy'>Distortion Map-Guided Feature Rectification for Efficient Video Semantic Segmentation</font>. IEEE Transactions on Multimedia, 2021
 
-Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. ICME, 2021 (oral)
+Wing-Yin Yu, Lai-Man Po, **Yuzhi Zhao**, Jingjing Xiong, Kin-Wai Lau. <font color='Navy'>Spatial Content Alignment For Pose Transfer</font>. ICME (oral), 2021
 
 Xuehui Wang, Qingyun Zhao, Lei Fan, **Yuzhi Zhao**, Tiantian Wang, Qiong Yan, Long Chen. <font color='Navy'>Semasuperpixel: A Multi Channel Probability Driven Superpixel Segmentation Method</font>. ICIP, 2021
 
@@ -77,9 +79,9 @@ M奖, Interdisciplinary Contest in Modelling, 2018
 
 学术服务
 ======
-审稿人: ICIP 2021-2022, ICASSP 2021, WACV 2021-2022, VCIP 2021, ECCV 2022
+审稿人: ECCV, ICIP, ICASSP, WACV, VCIP, etc.
 
-审稿人: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems
+审稿人: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems, etc.
 
 课外活动
 ======

@@ -22,8 +22,12 @@ Yuzhi Zhao is a Ph.D candidate at the Department of Electronic Engineering, City
 
 <font color='red'>I am open to finding a job now!!!</font>
 
+<br/>
+
 **News**
 ======
+- Jul 2022: two papers ("D2HNet" and "WS3D") are accepted to ECCV 2022
+
 - Mar 2022: "ChildPredictor" is **accepted** to IEEE Transactions on Multimedia
 
 - Mar 2022: two papers are submitted to ECCV 2022, one paper is submitted to TIP
