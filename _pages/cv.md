@@ -29,6 +29,8 @@ Publication
 
 **Yuzhi Zhao**, Lai-Man Po, Xin Ye, Qiong Yan, Yongzhe Xu. <font color='Navy'>Joint Image Deblurring and Denoising with Dual-exposure Quad-Bayer Sensors</font>. Under Review of IEEE Transactions on Image Processing
 
+**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022
+
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. WACV (oral), 2021
 
 **Yuzhi Zhao**, Lai-Man Po, Qiong Yan, Wei Liu, Tingyu Lin. <font color='Navy'>Hierarchical Regression Network for Spectral Reconstruction from RGB images</font>. CVPR Workshops, 2020
@@ -79,7 +81,7 @@ Academic Progress Scholarship, Huazhong University of Science and Technology, 20
 
 Acdemic Service
 ======
-Reviewer for: ECCV, ICIP, ICASSP, WACV, VCIP, etc.
+Reviewer for: ECCV, ICIP, ICASSP, WACV, VCIP, ACCV, etc.
 
 Reviewer for: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing, Knowledge-based Systems, etc.
 

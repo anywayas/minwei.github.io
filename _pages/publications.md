@@ -43,7 +43,7 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 **Conference**
 ======
 
-**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>WS3D: Weakly Supervised 3D Scene Segmentation with Region-level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022
+**Yuzhi Zhao**, Yongzhe Xu, Qiong Yan, Dingdong Yang, Xuehui Wang, and Lai-Man Po. <font color='Navy'>D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration</font>. ECCV, 2022 ([Code/Dataset](https://github.com/zhaoyuzhi/D2HNet)) ([URL](https://arxiv.org/pdf/2207.03294.pdf))
 
 **Yuzhi Zhao**, Lai-Man Po, Tingyu Lin, Xuehui Wang, Kangcheng Liu, et al. <font color='Navy'>Legacy Photo Editing with Learned Noise Prior</font>. WACV (oral), 2021 ([PDF](../files/2021-Legacy-Photo-Editing-with-Learned-Noise-Prior.pdf)) ([Code/Dataset](https://github.com/zhaoyuzhi/Legacy-Photo-Editing-with-Learned-Noise-Prior)) ([URL](https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.pdf))
 
@@ -51,7 +51,7 @@ Yasar Abbas Ur Rehman, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, **Yuzhi 
 
 **Yuzhi Zhao**, Lai-Man Po, Tiantian Zhang, Zongbang Liao, Xiang Shi, et al. <font color='Navy'>Saliency Map-aided Generative Adversarial Network for RAW to RGB Mapping</font>. ICCV Workshops, 2019 ([PDF](../files/2019-Saliency-Map-aided-Generative-Adversarial-Network-for-RAW-to-RGB-Mapping.pdf)) ([Code](https://github.com/zhaoyuzhi/RAW2RGB-GAN)) ([Poster](https://github.com/zhaoyuzhi/RAW2RGB-GAN/blob/master/poster/poster.png)) ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022028))
 
-Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>WS3D: Weakly Supervised 3D Scene Segmentation with Region-level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022
+Kangcheng Liu, **Yuzhi Zhao**, Qiang Nie, Zhi Gao, and Ben M. Chen. <font color='Navy'>WS3D: Weakly Supervised 3D Scene Segmentation with Region-level Boundary Awareness and Instance Discrimination</font>. ECCV, 2022 ([Code](https://github.com/Smart-Robotics-Scientist/Weakly-Supervised-3D))
 
 Kangcheng Liu, **Yuzhi Zhao**, Zhi Gao, and Ben M. Chen. <font color='Navy'>WeakLabel3D-Net: A Complete Framework for Real-Scene LiDAR Point Clouds Weakly Supervised Multi-Tasks Understanding</font>. ICRA, 2022
 
